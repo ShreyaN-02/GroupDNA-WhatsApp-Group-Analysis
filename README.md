@@ -15,6 +15,87 @@ The project focuses on understanding:
 The analysis was built from the ground up using Python fundamentals and NumPy.
 
 # Output
+============================================================
+              GROUPDNA – WHATSAPP GROUP ANALYSIS
+============================================================
+
+1. GROUP OVERVIEW
+------------------------------------------------------------
+Group Name          : Hostel Bois 4ever
+Total Participants  : 6
+Total Messages      : 3174
+Total Words         : 31551
+Average Words/Msg   : 9.94
+Date Range          : 01/04/2024 to 30/05/2024
+
+Participants:
+   Rahul : 953 messages ( 30.03 %)
+   Priya : 718 messages ( 22.62 %)
+   Karan : 354 messages ( 11.15 %)
+   Neha : 635 messages ( 20.01 %)
+   Aman : 490 messages ( 15.44 %)
+   Vikas : 24 messages ( 0.76 %)
+
+2. MOST ACTIVE DAY & HOUR
+------------------------------------------------------------
+Most Active Day    : Wednesday
+Most Active Hour   : 18:00
+Messages on Day    : 483
+Messages at Hour   : 248
+
+3. TOP WORDS
+------------------------------------------------------------
+   hai : 249
+   bhai : 160
+   one : 157
+   had : 151
+   started : 150
+   no : 146
+   scene : 145
+   entire : 145
+   please : 141
+   yaar : 139
+
+4. ACTIVITY SUMMARY
+------------------------------------------------------------
+Peak activity occurs on Wednesday at 18:00.
+The activity matrix contains 3174 messages.
+This confirms that all parsed messages
+were included in the activity analysis.
+
+5. RESPONSE TIME ANALYSIS
+------------------------------------------------------------
+Average Response Gap : 27.2 minutes
+Longest Silent Gap   : 5.98 hours
+
+6. PERSONALITY ARCHETYPES
+------------------------------------------------------------
+Personality archetypes are assigned based on
+message activity and communication patterns.
+   Rahul : The Most Active Member
+   Priya : The Most Active Member
+   Karan : The Active Participant
+   Neha : The Regular Contributor
+   Aman : The Regular Contributor
+   Vikas : The Silent Observer
+
+============================================================
+                    FINAL SUMMARY
+============================================================
+GroupDNA analyzed the WhatsApp group using
+Python fundamentals, NumPy and datetime.
+
+Key Findings:
+- Total messages analyzed : 3174
+- Total participants      : 6
+- Most active day         : Wednesday
+- Most active hour        : 18:00
+- Total words             : 31551
+- Average words/message   : 9.94
+
+============================================================
+                  END OF REPORT
+============================================================
 
 
 # Project Constraints
